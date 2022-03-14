@@ -1,0 +1,42 @@
+{
+  "mod_elements": [
+    {
+      "name": "Ball",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ball"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.miraculous_geart_gates.ball": "Ball"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "miraculous_geart_gates",
+    "modName": "miraculous_geart_gates",
+    "version": "1.0.0",
+    "author": "field, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.miraculousgeartgates",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

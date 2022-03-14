@@ -1,0 +1,7 @@
+{
+  "parent": "miraculous_geart_gates:custom/dog_ball",
+  "textures": {
+    "0": "miraculous_geart_gates:blocks/dog_texture",
+    "particle": "miraculous_geart_gates:items/dog_texture"
+  }
+}

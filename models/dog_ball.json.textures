@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dog_texture"
+      },
+      "name": "default"
+    }
+  }
+}
