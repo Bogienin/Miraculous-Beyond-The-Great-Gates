@@ -5,15 +5,15 @@
     "renderType": 1,
     "texture": "dog_texture",
     "customModelName": "dog_ball:default",
-    "name": "Ball",
+    "name": "Dogweapon",
     "rarity": "EPIC",
     "creativeTab": {
       "value": "No creative tab entry"
     },
-    "stackSize": 64,
+    "stackSize": 1,
     "enchantability": 0,
-    "useDuration": 0,
-    "toolType": 1.0,
+    "useDuration": 1,
+    "toolType": 2.0,
     "damageCount": 0,
     "recipeRemainder": {
       "value": ""
@@ -22,9 +22,11 @@
     "immuneToFire": true,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false,
-    "enableMeleeDamage": false,
-    "damageVsEntity": 0.0,
-    "specialInfo": [],
+    "enableMeleeDamage": true,
+    "damageVsEntity": 3.0,
+    "specialInfo": [
+      "go play fetch and you'll see what happens"
+    ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,

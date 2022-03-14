@@ -1,24 +1,30 @@
 {
   "mod_elements": [
     {
-      "name": "Ball",
+      "name": "Dogweapon",
       "type": "item",
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "ball"
+      "registry_name": "dogweapon",
+      "path": "~/japan racoon dog"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.miraculous_geart_gates.ball": "Ball"
+      "item.miraculous_geart_gates.dogweapon": "Dogweapon"
     }
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "japan racoon dog",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "miraculous_geart_gates",
